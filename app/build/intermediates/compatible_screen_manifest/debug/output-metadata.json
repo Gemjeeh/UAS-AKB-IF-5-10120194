@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.Tugas_UTS_Genap_2023_AKB_IF5_10120194",
+  "variantName": "debug",
+  "elements": []
+}

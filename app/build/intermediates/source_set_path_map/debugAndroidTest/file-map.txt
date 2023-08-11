@@ -1,0 +1,7 @@
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-annotation-experimental-1.3.0-0 C:\Users\Gemjeeh\.gradle\caches\transforms-3\15f25decc0357ff2ad523b6c3a7e88e2\transformed\annotation-experimental-1.3.0\res
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-core-1.5.0-1 C:\Users\Gemjeeh\.gradle\caches\transforms-3\496ff60c6f32312be3b9648c94d8ea26\transformed\core-1.5.0\res
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-androidTest-2 C:\Users\Gemjeeh\Downloads\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\app\build\generated\res\resValues\androidTest\debug
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-androidTest-3 C:\Users\Gemjeeh\Downloads\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\app\build\generated\res\rs\androidTest\debug
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-mergeDebugAndroidTestResources-4 C:\Users\Gemjeeh\Downloads\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-mergeDebugAndroidTestResources-5 C:\Users\Gemjeeh\Downloads\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.test.app-merged_res-6 C:\Users\Gemjeeh\Downloads\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\app\build\intermediates\merged_res\debugAndroidTest

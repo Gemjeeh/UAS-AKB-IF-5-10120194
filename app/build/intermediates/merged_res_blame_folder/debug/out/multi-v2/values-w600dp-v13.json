@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.Tugas_UTS_Genap_2023_AKB_IF5_10120194.app-mergeDebugResources-45:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gemjeeh\\Downloads\\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "41",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}
