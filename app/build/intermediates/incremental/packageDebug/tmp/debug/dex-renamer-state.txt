@@ -1,4 +1,4 @@
-#Sat Aug 12 03:03:59 WIB 2023
+#Sat Aug 12 03:31:24 WIB 2023
 base.0=C\:\\Users\\Gemjeeh\\Downloads\\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Gemjeeh\\Downloads\\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Gemjeeh\\Downloads\\Tugas-UTS-Genap-2023-AKB-IF-5-10120194-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
